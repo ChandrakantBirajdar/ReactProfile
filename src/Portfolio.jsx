@@ -32,7 +32,7 @@ import {
  */
 
 const DATA = {
-  name: "Chandraknt",
+  name: "Chandrakant",
   role: "Frontend Developer",
   location: "India",
   summary:
@@ -104,18 +104,18 @@ const DATA = {
         code: "https://github.com/",
       },
       image:
-        "https://images.unsplash.com/photo-1529959151276-3f7e4f7c5a49?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
     },
   ],
   experience: [
     {
-      company: "Acme Corp",
-      period: "2023 — Present",
-      role: "Frontend Engineer",
+      company: "Wipro",
+      period: "2024 — Present",
+      role: "React Developer | Project Engineer L1",
       bullets: [
-        "Built and maintained React apps used by 100k+ monthly users.",
-        "Improved Lighthouse performance scores from 78 → 97.",
-        "Led migration to Tailwind + headless UI patterns.",
+        "Designed and implemented responsive React.js UIs,.",
+        "Enhanced application security,by implementing JWT-based authentication and role-based access control (RBAC).",
+        "Developed responsive React.js UIs.",
       ],
     },
     {
@@ -123,9 +123,9 @@ const DATA = {
       period: "2023 — 2024",
       role: "Project Engineer",
       bullets: [
-        "Designed micro-interactions with Framer Motion.",
+        "Integrated RESTful APIs.",
         "Created an internal component library and docs site.",
-        "Collaborated closely with design for design systems.",
+        "Collaborated with UX/UI teams.",
       ],
     },
   ],
